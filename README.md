@@ -15,7 +15,7 @@
 
 <br>
 
-## 개발 스택
+## 개발 스택 🧩
 
   - Programming Languages : <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   - Backend Development : <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
@@ -28,6 +28,7 @@
 
 ## 참가대회 ✏️
 
+  - (2019.05.26 ~ 2019.05.26) 2019 인하대학교 프로그래밍 경진대회(IUPC) [ 특별상 ]
   - (2020.02.01 ~ 2020.02.29) 데이콘 천체 유형 분류 대회. [58등/352] [🔗](https://github.com/Leewongi0731/DACON_CelestialClassification)
   - (2020.03.01 ~ 2020.04.13) 공공 데이터 온도 추정 경진대회 [22등/378] [🔗](https://github.com/Leewongi0731/DACON_MeasuringTemperature)
   - (2020.04.01 ~ 2020.05.25) 위성관측 데이터 활용 강수량 산출 AI 경진대회 [28등/213] [🔗](https://github.com/Leewongi0731/DACON_PredictionPrecipitation)
@@ -40,7 +41,7 @@
 ## 상장
 
   - 2020.11.03 🏆 더존비즈온 빅데이터 경진대회 금상, 강원도지사 상장
-  - 2020.12.22 🏆 공공데이터 언택트 해커톤 우수상, 한국정보화진흥원장 상장
+  - 2020.12.22 🏆 공공데이터 언택트 해커톤 우수상, 한국지능정보사회진흥원 상장
   - 2020.12.22 🏆 효성 ITX 우수인턴 선발, 한국정보화진흥원장 상장
 
 <br>
