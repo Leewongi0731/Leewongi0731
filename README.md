@@ -1,8 +1,6 @@
-# 안녕하세요. 개발자 이원기입니다. 👋
+# 안녕하세요. 백엔드 개발자 이원기입니다. 👋
 
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeewongi0731&count_bg=%233D8AC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visit&edge_flat=false)](https://hits.seeyoufarm.com) [![DACON 로고](https://user-images.githubusercontent.com/48685242/102975677-c5e24d80-4543-11eb-8c38-c129f1ea2580.png)](https://dacon.io/myprofile/400467/home/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wglee0732@gmail.com)](mailto:wglee0732@gmail.com) 
-
-[![SolvedAC2tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=dldnjsrl)](https://solved.ac/dldnjsrl)
+[![DACON 로고](https://user-images.githubusercontent.com/48685242/102975677-c5e24d80-4543-11eb-8c38-c129f1ea2580.png)](https://dacon.io/myprofile/400467/home/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wglee0732@gmail.com)](mailto:wglee0732@gmail.com) 
 
 <br>
 
