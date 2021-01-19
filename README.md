@@ -20,9 +20,9 @@
   - Programming Languages : ![](	https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![](	https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white) ![](	https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  ![](	https://img.shields.io/badge/Javascript-ffb13b?style=for-the-badge&logo=javascript&logoColor=white)
   - Backend Development : ![](	https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
   - Mobile App Development : ![](	https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)
-  - AI/ML : ![](	https://img.shields.io/badge/OpenCV-6C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white) ![](	https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit+learn&logoColor=white) ![](	https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+  - AI/ML : ![](	https://img.shields.io/badge/OpenCV-6C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white) ![](	https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white) ![](	https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit+learn&logoColor=white) 
   - Database : ![](	https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white) ![](	https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white) ![](	https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white) ![](	https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white) 
-  - Other :  ![](	https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white) ![](	https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white) 
+  - Other :  ![](	https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white) ![](	https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white) ![](	https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=Amazon+AWS&logoColor=white)
 
 <br>
 
