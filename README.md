@@ -26,7 +26,7 @@
 
 <br>
 
-## 참가대회 ✏️
+## 참가대회 💻
 
   - (2019.05.26 ~ 2019.05.26) 2019 인하대학교 프로그래밍 경진대회(IUPC) [ 특별상 ]
   - (2020.02.01 ~ 2020.02.29) 데이콘 천체 유형 분류 대회. [58등/352] [🔗](https://github.com/Leewongi0731/DACON_CelestialClassification)
@@ -35,6 +35,12 @@
   - (2020.09.14 ~ 2020.09.22) 더존비즈온 빅데이터 경진대회 [ 🏆 금상 ]  [🔗](https://github.com/Leewongi0731/BigdataCompetition)
   - (2020.11.18 ~ 2020.12.13) 국민체육진흥공단 체육종합 데이터 활용 경진대회 [🔗](https://github.com/Leewongi0731/DataCompetition_ExercisePharmacist)
   - (2020.11.23 ~ 2020.12.21) 공공데이터 청년인턴십 언택트 해커톤 [ 🏆 우수상 ] [🔗](https://github.com/Leewongi0731/PublicDataHackerton_SeeNear)
+
+<br>
+
+## 참여논문 ✏️
+
+- [그래프 구조를 이용한 도로 네트워크 갱신 방안](http://journal.kits.or.kr/journal/article.php?code=77665) : 공저자 참여( 그래프 구현, 경로 탐색 알고리즘 구현, 시각화 )
 
 <br>
 
