@@ -1,29 +1,19 @@
 # 안녕하세요. 백엔드 개발자 이원기입니다. 👋
 
-[![DACON 로고](https://user-images.githubusercontent.com/48685242/102975677-c5e24d80-4543-11eb-8c38-c129f1ea2580.png)](https://dacon.io/myprofile/400467/home/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wglee0732@gmail.com)](mailto:wglee0732@gmail.com) 
-
 <br>
 
 ## Work experience 🏃‍♂️
-
-  - (15.03 ~ ) 인하대학교 공간정보공학과, 컴퓨터공학과 재학
-  - (19.07 ~ 20.08, 14개월) 인하대학교 GIT연구실 학부연구생
-  - (19.10.14 ~ 19.10.18) ITS 지능형 교통시스템(ISO/TC204) 국제표준회의 참관
-  - (19.11 ~ 20.06) 인하대학교 빅데이터 동아리 INBIG 1기 [🔗](https://inbig.github.io/)
-  - (20.04 ~ 20.05) 인하대학교 빅데이터 동아리 INBIG 기초스터디 멘토
   - (20.09 ~ 20.12, 4개월) 효성 ITX 공공데이터 인턴
-  - (21.04 ~ 21.05, 2개월) SW마에스트로 12기
   - (21.06 ~ ) LINE Plus
 
 <br>
 
 ## 개발 스택 🧩
 
-  - Programming Languages : ![](	https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![](	https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white) ![](	https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  ![](	https://img.shields.io/badge/Javascript-ffb13b?style=for-the-badge&logo=javascript&logoColor=white)
+  - Programming Languages : ![](	https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white) ![](	https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
   - Backend Development : ![](	https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
   - Mobile App Development : ![](	https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)
-  - AI/ML : ![](	https://img.shields.io/badge/OpenCV-6C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white) ![](	https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white) ![](	https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit+learn&logoColor=white) 
-  - Database : ![](	https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white) ![](	https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white) ![](	https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white) ![](	https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white) 
+  - Database : ![](	https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white) ![](	https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
   - Other :  ![](	https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white) ![](	https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white) ![](	https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=Amazon+AWS&logoColor=white)
 
 <br>
@@ -40,21 +30,8 @@
 
 <br>
 
-## 참여논문 ✏️
-
-- [그래프 구조를 이용한 도로 네트워크 갱신 방안](http://journal.kits.or.kr/journal/article.php?code=77665) : 공저자 참여( 그래프 구현, 경로 탐색 알고리즘 구현, 시각화 )
-
-<br>
-
 ## 상장
 
   - 2020.11.03 🏆 더존비즈온 빅데이터 경진대회 금상, 강원도지사 상장
   - 2020.12.22 🏆 공공데이터 언택트 해커톤 우수상, 한국지능정보사회진흥원 상장
   - 2020.12.22 🏆 효성 ITX 우수인턴 선발, 한국정보화진흥원장 상장
-
-<br>
-
-## 자격증
-  - 2017.05.27 한국사능력검정시험 1급 ( 국사편찬위원회 )
-  - 2018.11.16 정보처리산업기사 (산업인력공단)
-  - 2020.11.12 정보처리기사 (산업인력공단)
