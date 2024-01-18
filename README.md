@@ -1,4 +1,4 @@
-# 안녕하세요. 주니어 백엔드 개발자 이원기입니다. 👋👋👋
+# 안녕하세요. 백엔드 개발자 이원기입니다. 👋👋👋
 
 <br>
 
@@ -10,7 +10,7 @@
 
 ## 개발 스택 🧩
 
-  - Programming Languages : ![](	https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white) ![](	https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+  - Programming Languages : ![](	https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) ![](	https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![](	https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white)
   - Backend Development : ![](	https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
   - Mobile App Development : ![](	https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)
   - Database : ![](	https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white) ![](	https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
